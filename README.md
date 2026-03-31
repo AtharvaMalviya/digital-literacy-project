@@ -47,11 +47,10 @@ Researched phishing attacks and created a case study along with prevention tips 
 
 ## 🔗 Important Links
 
-- GitHub Profile: https://github.com/[your-username]
-- LinkedIn Profile: https://linkedin.com/in/[your-profile]
-- HackerRank Profile: https://hackerrank.com/[your-profile]
-- Google Form (Quiz): [Paste your Google Form link here]
-
+- GitHub Profile: https://github.com/AtharvaMalviya
+- LinkedIn Profile: https://www.linkedin.com/in/atharva-malviya-6864883b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- HackerRank Profile: https://www.hackerrank.com/profile/atharva_25bai103
+  
 ---
 
 ## 📌 Conclusion
