@@ -1,0 +1,32 @@
+email 1: 
+Subject: Request for Assignment Deadline Extension
+
+Dear Professor,
+
+I hope you are doing well. I am writing to request a short extension for the assignment submission due to some unforeseen circumstances.
+
+I have been working on the assignment, but I require a little more time to complete it properly. I assure you that I will submit it at the earliest if granted the extension.
+
+I would be grateful if you could consider my request.
+
+Thank you for your understanding.
+
+Yours sincerely,  
+Atharva Malviya
+
+
+--------------------------------------------------
+
+email 2:
+Subject: Inquiry Regarding Summer Internship Opportunity
+
+Dear Sir/Madam,
+
+I hope this message finds you well. I am a first-year B.Tech student pursuing CSE (AI & ML), and I am writing to express my interest in any available summer internship opportunities at your organization.
+
+I am keen to gain practical experience and enhance my skills in a professional environment. I would appreciate it if you could provide details regarding any internship openings and the application process.
+
+Thank you for your time and consideration.
+
+Yours sincerely,  
+Atharva Malviya
